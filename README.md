@@ -5,7 +5,8 @@
 - 📫 How to reach me geetharagiphani36@gmail.com or connect with me on [www.linkedin.com/in/geetharagiphani]
 - 😄 Pronouns: She/her
 - ⚡ Fun fact: I enjoy experimenting with different data visualization techniques to convey insights effectively
-
+- 💼 Actively looking for jobs in data analysis and business intelligence areas.
+- 🎓 Currently pursuing a master's degree in business analytics at the University of Massachusetts, Amherst.
 <!---
 GeethaRagiphani/GeethaRagiphani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
